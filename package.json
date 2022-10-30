@@ -1,6 +1,6 @@
 {
   "name": "@cloudideaas/ngx-accordion",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple accordion control for your angular applications using bootstrap.",
   "license": "MIT",
   "readmeFilename": "README.md",
@@ -41,9 +41,6 @@
     "typescript",
     "angular-accordion"
   ],
-  "peerDependencies": {
-    "@angular/core": "^2.0.0"
-  },
   "devDependencies": {
     "@angular/common": "^14.0.0",
     "@angular/compiler": "^14.2.8",
